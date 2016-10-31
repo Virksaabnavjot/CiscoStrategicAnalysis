@@ -1,4 +1,5 @@
 # Cisco Strategic Analysis
+<img src="https://cloud.githubusercontent.com/assets/5924811/19855128/ce3bc1e2-9f6a-11e6-9ea3-3b11d7de1237.jpg" />
 Analysis of Cisco's Strategy based on Case Study, “Cisco’s Strategy in Recessionary times” written by Indu P, under direction of Vivek Gupta at ICMR Center for Management Research (Website: icmrindia.org).
 
 # Introduction
